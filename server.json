@@ -1,0 +1,98 @@
+{
+  "current" : {
+    "Bauru" : {
+      "city" : "Bauru",
+      "data" : {
+        "base" : "stations",
+        "clouds" : {
+          "all" : 0
+        },
+        "cod" : 200,
+        "coord" : {
+          "lat" : -22.3147,
+          "lon" : -49.0606
+        },
+        "dt" : 1612737964,
+        "id" : 3470279,
+        "main" : {
+          "feels_like" : 25.27,
+          "humidity" : 50,
+          "pressure" : 1011,
+          "temp" : 27,
+          "temp_max" : 27,
+          "temp_min" : 27
+        },
+        "name" : "Bauru",
+        "sys" : {
+          "country" : "BR",
+          "id" : 8341,
+          "sunrise" : 1612688464,
+          "sunset" : 1612735187,
+          "type" : 1
+        },
+        "timezone" : -10800,
+        "visibility" : 10000,
+        "weather" : [ {
+          "description" : "céu limpo",
+          "icon" : "01n",
+          "id" : 800,
+          "main" : "Clear"
+        } ],
+        "wind" : {
+          "deg" : 130,
+          "speed" : 5.14
+        }
+      },
+      "id" : "4074253a-0bcf-4c1a-95aa-74055214ea97"
+    }
+  },
+  "logs" : {
+    "8e906a0e-6de0-4f1f-8b56-f660b7eac423" : {
+      "city" : "Bauru",
+      "cityId" : "4074253a-0bcf-4c1a-95aa-74055214ea97",
+      "data" : {
+        "base" : "stations",
+        "clouds" : {
+          "all" : 0
+        },
+        "cod" : 200,
+        "coord" : {
+          "lat" : -22.3147,
+          "lon" : -49.0606
+        },
+        "dt" : 1612737964,
+        "id" : 3470279,
+        "main" : {
+          "feels_like" : 25.27,
+          "humidity" : 50,
+          "pressure" : 1011,
+          "temp" : 27,
+          "temp_max" : 27,
+          "temp_min" : 27
+        },
+        "name" : "Bauru",
+        "sys" : {
+          "country" : "BR",
+          "id" : 8341,
+          "sunrise" : 1612688464,
+          "sunset" : 1612735187,
+          "type" : 1
+        },
+        "timezone" : -10800,
+        "visibility" : 10000,
+        "weather" : [ {
+          "description" : "céu limpo",
+          "icon" : "01n",
+          "id" : 800,
+          "main" : "Clear"
+        } ],
+        "wind" : {
+          "deg" : 130,
+          "speed" : 5.14
+        }
+      },
+      "id" : "8e906a0e-6de0-4f1f-8b56-f660b7eac423",
+      "created_at": "2021-02-07T22:57:34.091Z"
+    }
+  }
+}

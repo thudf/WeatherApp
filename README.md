@@ -69,8 +69,8 @@ Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENS
 
 ---
 
+
 <div align="center">
-  <p>Made with</p>
-  <img src="https://media.giphy.com/media/pdIkKJq1Vas84u8Iir/giphy.gif" width="400px">
-  <p>By <a href="https://www.linkedin.com/in/arthur-d-afonseca-885757183/">Arthur D'Afonseca</a></p>
+  <img src="https://media.giphy.com/media/9IZjYtYKV1103Pnu56/giphy.gif" width="200px">
+  <p><sup>By <a href="https://www.linkedin.com/in/arthur-d-afonseca-885757183/">Arthur D'Afonseca</a><sup></p>
 </div>

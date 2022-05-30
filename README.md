@@ -70,6 +70,6 @@ Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENS
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="40px">
-  <p>por <strong> Arthur D'Afonseca e Silva</strong> </p>
+  <img src="https://media.giphy.com/media/pdIkKJq1Vas84u8Iir/giphy.gif" width="200px">
+  <p>By <a href="https://www.linkedin.com/in/arthur-d-afonseca-885757183/">Arthur D'Afonseca</a></p>
 </div>
